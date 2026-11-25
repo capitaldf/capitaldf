@@ -1,4 +1,4 @@
-name: Gerar cobrinha
+name: Generate Snake Animation
 
 on:
   schedule:
@@ -16,9 +16,9 @@ jobs:
         with:
           github_user_name: capitaldf
           outputs: |
-            dist/github-snake.svg?color_snake=%2339ff14
+            dist/github-contribution-grid-snake.svg?color_snake=00ff41&color_dots=%23050505,%23001300,%23006600,%2300aa00,%2300ff41
 
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
