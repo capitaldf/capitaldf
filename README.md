@@ -12,6 +12,11 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
+<h2 align="center"></h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/capitaldf/capitaldf/main/terminal.svg" width="100%">
+</p>
   
   ##
  
