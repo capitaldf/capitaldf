@@ -30,5 +30,21 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
   
 </div>
 
+<div align="center">
+
+# 
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Initializing+system...;root%40capitaldf%3A~%24+whoami;Welcome+to+my+GitHub;Access+granted+%5BOK%5D" />
+
+```bash
+> System: ONLINE
+> User: capitaldf
+> Mode: MATRIX
+> Status: ACCESS GRANTED
+```
+
+</div>
+
+
 
 
