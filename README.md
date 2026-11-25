@@ -29,5 +29,10 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
 <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=matrix&no-frame=true&column=6" width="100%" />
 
 </div>
+<h2 align="center"></h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/capitaldf/capitaldf/output/github-snake.svg" alt="Cobrinha animada">
+</p>
 
 
