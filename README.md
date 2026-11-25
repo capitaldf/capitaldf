@@ -44,7 +44,23 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
 ```
 
 </div>
+<h2 align="center">🟢 MATRIX DEVELOPER DASHBOARD</h2>
 
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=capitaldf&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=050805&title_color=00FF41&icon_color=00FF41&text_color=00FF41" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=capitaldf&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=050805&title_color=00FF41&text_color=00FF41" />
+
+</div>
+
+<h3 align="center">⚡ SYSTEM ACTIVITY</h3>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=capitaldf&bg_color=050805&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true" />
+
+</div>
 
 
 
