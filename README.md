@@ -26,7 +26,7 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
 </div>
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animação da cobrinha de contribuições" />
+<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=matrix&no-frame=true&column=6" width="100%" />
 
 </div>
 
