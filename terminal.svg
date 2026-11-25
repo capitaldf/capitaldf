@@ -1,0 +1,27 @@
+<svg width="850" height="300" viewBox="0 0 850 300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="850" height="300" rx="15" fill="#080d0a"/>
+  <rect x="1" y="1" width="848" height="298" rx="15" fill="none" stroke="#00ff66"/>
+  <circle cx="25" cy="22" r="6" fill="#ff5555"/>
+  <circle cx="45" cy="22" r="6" fill="#ffbd2e"/>
+  <circle cx="65" cy="22" r="6" fill="#27c93f"/>
+  <text x="85" y="27" fill="#00ff66" font-family="monospace" font-size="13">capitaldf@github: ~</text>
+
+  <g font-family="monospace" font-size="17" fill="#00ff66">
+    <text x="30" y="75">$ whoami</text>
+    <text x="30" y="110" opacity="0">capitaldf
+      <animate attributeName="opacity" values="0;1;1;0" dur="8s" repeatCount="indefinite"/>
+    </text>
+    <text x="30" y="150">$ initializing system...
+      <animate attributeName="opacity" values="0;0;1;1;0" dur="8s" repeatCount="indefinite"/>
+    </text>
+    <text x="30" y="190">$ loading developer profile...
+      <animate attributeName="opacity" values="0;0;0;1;1;0" dur="8s" repeatCount="indefinite"/>
+    </text>
+    <text x="30" y="230" fill="#39ff14">SYSTEM ONLINE_
+      <animate attributeName="opacity" values="0;0;0;0;1;1" dur="8s" repeatCount="indefinite"/>
+    </text>
+    <rect x="30" y="248" width="10" height="19" fill="#00ff66">
+      <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
