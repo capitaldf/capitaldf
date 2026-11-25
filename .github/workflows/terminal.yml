@@ -1,0 +1,49 @@
+name: Update Hacker Terminal
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  terminal:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate terminal
+        run: |
+          mkdir -p assets
+          cat > assets/terminal.svg <<'EOF'
+          <svg xmlns="http://www.w3.org/2000/svg"
+               width="700" height="230"
+               viewBox="0 0 700 230">
+            <rect width="700" height="230" rx="12"
+                  fill="#050805"/>
+            <rect x="0" y="0" width="700" height="35"
+                  rx="12" fill="#142014"/>
+            <circle cx="20" cy="18" r="6" fill="#ff5f56"/>
+            <circle cx="40" cy="18" r="6" fill="#ffbd2e"/>
+            <circle cx="60" cy="18" r="6" fill="#27c93f"/>
+            <g fill="#00ff41" font-family="monospace"
+               font-size="16">
+              <text x="22" y="70">root@capitaldf:~$ whoami</text>
+              <text x="22" y="105">Developer | Technology</text>
+              <text x="22" y="140">root@capitaldf:~$ system_status</text>
+              <text x="22" y="175">[+] MATRIX SYSTEM ONLINE</text>
+              <text x="22" y="210">[+] ACCESS GRANTED_</text>
+            </g>
+          </svg>
+          EOF
+
+      - name: Commit terminal
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add assets/terminal.svg
+          git diff --cached --quiet || git commit -m "Update hacker terminal"
+          git push
