@@ -27,4 +27,3 @@ jobs:
           git add -A
           git commit -m "Generate 3D contribution profile" || exit 0
           git push
-          
