@@ -65,6 +65,12 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
 
 ![](./profile-3d-contrib/profile-night-green.svg)
 
+<h2 align="center"></h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=600&lines=Initializing+Hacker+Mode...;Welcome+to+CapitalDF;System+Online+%E2%9C%85" />
+</p>
+
 
 
 
