@@ -61,27 +61,7 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=capitaldf&bg_color=050805&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true" />
 
 </div>
-<h2 align="center"></h2>
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=capitaldf&label=PROFILE+VISITORS&color=00ff41&style=for-the-badge" />
-
-</div>
-
-<h3 align="center"></h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&labelColor=050805" />
-  <img src="https://img.shields.io/badge/DEVELOPER-CAPITALDF-00FF41?style=for-the-badge&labelColor=050805" />
-</p>
-<h2 align="center">.</h2>
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/00ff41/capitaldf" alt="GitHub Contributions Calendar" width="100%"/>
-
-</div>
 
 
 
