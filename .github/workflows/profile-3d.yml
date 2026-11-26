@@ -19,6 +19,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: capitaldf
+          SETTING_JSON: ./profile-3d-conf.json
         
       - name: Commit and push
         run: |
