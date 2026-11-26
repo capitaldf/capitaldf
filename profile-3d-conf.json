@@ -1,6 +1,15 @@
 {
-  "background": "#064E3B",
-  "foreground": "#86EFAC",
-  "contribution": "#22C55E",
-  "text": "#D1FAE5"
+  "type": "normal",
+  "backgroundColor": "#064E3B",
+  "foregroundColor": "#D1FAE5",
+  "strongColor": "#86EFAC",
+  "weakColor": "#14532D",
+  "radarColor": "#22C55E",
+  "contribColors": [
+    "#14532D",
+    "#166534",
+    "#15803D",
+    "#22C55E",
+    "#86EFAC"
+  ]
 }
