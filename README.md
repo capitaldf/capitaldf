@@ -61,6 +61,9 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=capitaldf&bg_color=050805&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true" />
 
 </div>
+## Meu gráfico de contribuições 3D
+
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 
 
