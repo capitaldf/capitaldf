@@ -63,7 +63,7 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
 </div>
 ## Meu gráfico de contribuições 3D
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
 
 
 
