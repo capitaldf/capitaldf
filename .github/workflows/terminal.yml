@@ -47,3 +47,4 @@ jobs:
           git add assets/terminal.svg
           git diff --cached --quiet || git commit -m "Update hacker terminal"
           git push
+          - nome: Incorporação de métricas utiliza: lowlighter/metrics@v3.34
